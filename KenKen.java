@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class KenKen {
 	
 	public int temptest;
+	public int othertestforcommitoffline;
 	static int size;
 	public int counter1Basic, counter1Best, counterForLocalSolution, counterForLocalTotal;
 	
