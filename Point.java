@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 
 public class Point {
+	//Tests, just want to add a few lines and see if it changes on Github
+	// test
+	// test tttt
 	private int x;
 	private int y;
 	private char cage_name;
